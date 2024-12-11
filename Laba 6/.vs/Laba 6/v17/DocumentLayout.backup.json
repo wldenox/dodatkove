@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Course\\Cew\\Laba 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\core\\xmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\core\\xmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\core\\banddatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\core\\banddatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\core\\bandfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\core\\bandfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\core\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\core\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\core\\bandmemberfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\core\\bandmemberfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|d:\\course\\cew\\laba 6\\laba 6\\core\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\core\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\core\\stringnulloremptytovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\core\\stringnulloremptytovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|d:\\course\\cew\\laba 6\\laba 6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|D:\\Course\\Cew\\Laba 6\\laba 6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49D2DDBF-A183-4367-B829-CE75A55D96F5}|Laba 6\\Laba 6.csproj|solutionrelative:laba 6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\Observer.cs",
+              "RelativeDocumentMoniker": "Laba 6\\Core\\Observer.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\Observer.cs",
+              "RelativeToolTip": "Laba 6\\Core\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:49:30.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringNullOrEmptyToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\StringNullOrEmptyToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Laba 6\\Core\\StringNullOrEmptyToVisibilityConverter.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\StringNullOrEmptyToVisibilityConverter.cs",
+              "RelativeToolTip": "Laba 6\\Core\\StringNullOrEmptyToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:36:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XmlHandler.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\XmlHandler.cs",
+              "RelativeDocumentMoniker": "Laba 6\\Core\\XmlHandler.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\XmlHandler.cs",
+              "RelativeToolTip": "Laba 6\\Core\\XmlHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:45:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BandFacade.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandFacade.cs",
+              "RelativeDocumentMoniker": "Laba 6\\Core\\BandFacade.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandFacade.cs",
+              "RelativeToolTip": "Laba 6\\Core\\BandFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:42:11.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BandDataManager.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandDataManager.cs",
+              "RelativeDocumentMoniker": "Laba 6\\Core\\BandDataManager.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandDataManager.cs",
+              "RelativeToolTip": "Laba 6\\Core\\BandDataManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:41:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BandMemberFactory.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandMemberFactory.cs",
+              "RelativeDocumentMoniker": "Laba 6\\Core\\BandMemberFactory.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandMemberFactory.cs",
+              "RelativeToolTip": "Laba 6\\Core\\BandMemberFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:40:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BandMember.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandMember.cs",
+              "RelativeDocumentMoniker": "Laba 6\\Core\\BandMember.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\Core\\BandMember.cs",
+              "RelativeToolTip": "Laba 6\\Core\\BandMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:40:27.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Laba 6\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Laba 6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:39:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Laba 6\\MainWindow.xaml",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\MainWindow.xaml",
+              "RelativeToolTip": "Laba 6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T11:39:44.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Course\\Cew\\Laba 6\\Laba 6\\App.xaml",
+              "RelativeDocumentMoniker": "Laba 6\\App.xaml",
+              "ToolTip": "D:\\Course\\Cew\\Laba 6\\Laba 6\\App.xaml",
+              "RelativeToolTip": "Laba 6\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T15:37:09.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

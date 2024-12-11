@@ -1,0 +1,14 @@
+D:\Course\Cew\Laba 6\Laba 6\bin\Debug\Laba 6.exe.config
+D:\Course\Cew\Laba 6\Laba 6\bin\Debug\Laba 6.exe
+D:\Course\Cew\Laba 6\Laba 6\bin\Debug\Laba 6.pdb
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba 6.csproj.AssemblyReference.cache
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\MainWindow.baml
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\MainWindow.g.cs
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\App.g.cs
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba 6_MarkupCompile.cache
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba 6.g.resources
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba_6.Properties.Resources.resources
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba 6.csproj.GenerateResource.cache
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba 6.csproj.CoreCompileInputs.cache
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba 6.exe
+D:\Course\Cew\Laba 6\Laba 6\obj\Debug\Laba 6.pdb
